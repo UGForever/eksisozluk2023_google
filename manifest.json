@@ -1,0 +1,11 @@
+{
+  "name": "eksisozluk2023 Redirector",
+  "version": "1.0",
+  "description": "This extension redirects eksisozluk.com links to eksisozluk2023.com.",
+  "permissions": ["webNavigation"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "manifest_version": 2
+}
